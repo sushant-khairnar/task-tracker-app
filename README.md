@@ -1,0 +1,1 @@
+A full-stack Task Tracker application developed using Vue 3 for the frontend and Node.js, Express, and MongoDB for the backend. The project allows users to create, view, update, and delete tasks, demonstrating CRUD operations, REST API integration, and modern web application architecture.
